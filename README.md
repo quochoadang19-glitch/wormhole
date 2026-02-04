@@ -1,12 +1,12 @@
 <img alt="Banner" src="docs/images/banner.jpg"/>
 
-This monorepo contains the reference implementation of the [Wormhole protocol](https://wormholenetwork.com).
+This monorepo contains the reference implementation of the [Wormhole protocol](https://wormhole.com/docs/).
 
 To learn about how to use and build on Wormhole read the [docs](https://docs.wormhole.com/).
 
 ----
 
-See [Live Contracts](https://docs.wormholenetwork.com/wormhole/contracts) for current testnet and mainnet deployments of
+See [Live Contracts](https://wormhole.com/docs//wormhole/contracts) for current testnet and mainnet deployments of
 the Wormhole smart contracts.
 
 See [DEVELOP.md](DEVELOP.md) for instructions on how to set up a local devnet, [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to this project, and [SECURITY.md](SECURITY.md) for more information about our security audits and bug bounty program.

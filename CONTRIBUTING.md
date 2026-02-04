@@ -117,7 +117,7 @@ either build the integration, or work with an external team to build it.
 
 Please do not open a GitHub issue about new networks - this repository is only a reference implementation for
 Wormhole, just like go-ethereum is a reference implementation for Ethereum. Instead, reach out to the
-[Wormhole Network](https://wormholenetwork.com).
+[Wormhole Network](https://wormhole.com/docs/).
 
 ### Do you support \<random blockchain innovation\>?
 

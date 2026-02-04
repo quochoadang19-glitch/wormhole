@@ -2,7 +2,7 @@
   "name": "@certusone/wormhole-spydk",
   "version": "0.1.0",
   "description": "Wormhole Spy service SDK for use with @certusone/wormhole-sdk",
-  "homepage": "https://wormholenetwork.com",
+  "homepage": "https://wormhole.com/docs/",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "files": [

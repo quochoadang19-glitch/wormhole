@@ -403,7 +403,7 @@ const (
 	// BODY: 4 + 4 + 2 + 32 + 8  + 1 + 0 = 51
 	// BATCH: 1 + 32 + 1 + 1 + 1 + 51 = 88
 	//
-	// More details here: https://docs.wormholenetwork.com/wormhole/vaas
+	// More details here: https://wormhole.com/docs//wormhole/vaas
 	minHeadlessVAALength = 51 // HEADER
 	minVAALength         = 57 // HEADER + BODY
 
